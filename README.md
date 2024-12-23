@@ -1,6 +1,13 @@
 # nutritionaist
 
 AI nutritionist
+an ai app to help you count nutrition and calories in your food
+
+## Demo
+| input food                 | result                     |
+|----------------------------|----------------------------|
+| ![screenshot](ss/ui_1.png) | ![screenshot](ss/ui_2.png) |
+
 
 ## Getting Started
 

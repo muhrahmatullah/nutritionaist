@@ -4,13 +4,9 @@ AI nutritionist
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This repository created for supplement the talk I gave in flutter jakarta community
+this is the slide: https://docs.google.com/presentation/d/1zSLVRIxDQERXDCDcrTwgTzIu_VaMCoPHvgSeQbm-1Bw/edit#slide=id.g3261393262e_0_1795
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+to be able to make the app run, you need to configure your own firebase project and enable the firebase vertex configuration
+You will need to create billing account in google cloud console. 
+for detailed steps configuring the firebase project, it's in the slide number 20 - 22

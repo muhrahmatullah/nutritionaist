@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545223735525",
+    "project_id": "nutriaionist",
+    "storage_bucket": "nutriaionist.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545223735525:android:ca108c1059b2042935fc0c",
+        "android_client_info": {
+          "package_name": "com.rahmat.nutritionaist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_oQi9BqqVjvrRdL9YoJ4zbE6BOnP5euY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
